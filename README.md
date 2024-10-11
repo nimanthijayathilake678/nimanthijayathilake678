@@ -2,8 +2,6 @@
 <h3 align="center">Full Stack Developer with a flair for crafting seamless user experiences and robust backend systems.</h3>
 <img align="right" alt="Coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif">
 <br>
-**Talking about Personal Topics:**
-- 🔭 I’m currently working at **GTN**
 
 - 🌱 I’m currently learning **Microservice Architecture, PLSQL**
 
