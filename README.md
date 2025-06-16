@@ -3,7 +3,7 @@
 <img align="right" alt="Coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif">
 <br>
 
-- 👨🏽‍💻 I'm currently working at **e-w information systems ltd**
+- 👨🏽‍💻 I'm currently working at **E-W Information Systems Ltd**
 
 - 👩🏻‍🎓 Computer Science Graduate at the University of Ruhuna, Sri Lanka
 
